@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       home: Scaffold(
         body: Center(
           child: Text(
-            'Hello World',
+            'Hello World dari amarrrrrrr',
             style: TextStyle(fontSize: 24),
           ),
         ),
@@ -22,3 +22,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+cd latihan-flutter-1/latihan-1/flutter_application_1
